@@ -1,0 +1,26 @@
+[
+    {"Country": "United Kingdom",
+     "Codigo ISO":"GBR",
+     "Codigo ISO 3": "GBR"}, 
+    {"Country": "United States",
+     "Codigo ISO":"USA",
+     "Codigo ISO 3": "USA"},
+    {"Country": "Barbados",
+     "Codigo ISO":"BRB",
+     "Codigo ISO 3": "BRB"
+    }, 
+    {"Country": "Canada"},
+    {"Country": "Ireland"},
+    {"Country": "Sweden"},
+    {"Country": "Spain"},
+    {"Country": "United KingdomUnited States"},
+    {"Country": "United KingdomAustralia"},
+    {"Country": "Trinidad and Tobago"},
+    {"Country": "Japan"},
+    {"Country": "Australia"},
+    {"Country": "United KingdomUnited States"},
+    {"Country": "Colombia"},
+    {"Country": "France"},
+    {"Country": "Jamaica"}
+    
+]
