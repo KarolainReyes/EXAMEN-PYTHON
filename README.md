@@ -8,10 +8,11 @@ Este programa implementa un sistema integral de gestión que permite manejar tod
 
 1. [Funciones](#funciones)
 2. [Instalacion](#instalacion)
-3. [Contribución](#contribucion)
-4. [Licencias](#licencias)
-5. [Autor](#autor)
-6. [Agradecimientos](#agradecimientos)
+3. [Tecnologias](#tecnologias)
+4. [Contribución](#contribucion)
+5. [Licencias](#licencias)
+6. [Autor](#autor)
+7. [Agradecimientos](#agradecimientos)
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -98,7 +99,7 @@ Sigue estos pasos para instalar el proyecto en tu entorno local.
 
 ### 🔧 Requisitos previos
 
-- Lista de requisitos previos: Python
+- Lista de requisitos previos: Python 3.x o superior.
 
 ### 📋 Pasos de instalación
 
@@ -115,6 +116,14 @@ Sigue estos pasos para instalar el proyecto en tu entorno local.
     npm install  # o el comando según el gestor de paquetes que uses
     ```
     
+------------------------------------------------------------------------------------------------------------------------
+
+## 🛡️ Tecnologías
+
+- **Python 3.x**: Lenguaje de programación principal.
+  
+- **Librería `json`**: Para almacenar los productos en formato JSON de forma persistente.
+
 ------------------------------------------------------------------------------------------------------------------------
 
 ## 📚 Contribución 
