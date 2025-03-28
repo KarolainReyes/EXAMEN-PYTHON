@@ -1,7 +1,7 @@
 ## SISTEMA INTEGRAL PARA GESTION MUSICAL
 Esta en una aplicacion creada con Python que implementa un sistema integral de gestión que permite manejar todas las operaciones relacionadas con la administración de datos de artistas musicales, países, géneros musicales, así como la generación de informes relevantes.
 
-## ---------------------------------------------
+---------------------------------------------
 ## 🛠 FUNCIONALIDADES
 ----------------------------------------------
 ## 🎤 GESTIÓN DE ARTISTAS:
